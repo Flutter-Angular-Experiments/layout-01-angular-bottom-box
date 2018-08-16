@@ -1,0 +1,11 @@
+.container {
+    height: 100%;
+}
+
+.bottom-box {
+    position: absolute;
+    bottom: 0px;
+    height: 50%;
+    width: 100%;
+    background-color: green;
+}
