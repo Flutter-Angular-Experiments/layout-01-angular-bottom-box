@@ -7,5 +7,4 @@ import 'package:angular/angular.dart';
   templateUrl: 'app_component.html',
 )
 class AppComponent {
-  // Nothing here yet. All logic is in TodoListComponent.
 }
