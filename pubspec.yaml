@@ -9,9 +9,10 @@ environment:
 
 dependencies:
   angular: ^5.0.0-beta
+  bootstrap_sass: any
 
 dev_dependencies:
-  sass_builder: ^2.1.0
+  sass_builder: ^2.1.1
   build_runner: ^0.9.0
   build_test: ^0.10.2
   build_web_compilers: ^0.4.0
