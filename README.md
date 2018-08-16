@@ -8,7 +8,7 @@ See [Flutter & Angular Cookbook](https://jasperamorgan.gitbook.io/flutter-angula
 
 * lib/src/app_component.dart
 * lib/src/app_component.html
-* lib/src/appcomponent.css
+* lib/src/app_component.scss
 
 ## Running
 
